@@ -1,0 +1,12 @@
+depth_anything_v2_small_w16.onnx
+
+来源 / Source: Depth-Anything-V2-Small (https://huggingface.co/depth-anything/Depth-Anything-V2-Small),
+ONNX export by onnx-community (https://huggingface.co/onnx-community/depth-anything-v2-small, onnx/model.onnx).
+许可 / License: Apache License 2.0 (full text: depth_anything_v2_LICENSE.txt).
+Copyright: the Depth Anything V2 authors (Lihe Yang, Bingyi Kang, Zilong Huang, Zhen Zhao, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao).
+
+修改 / Modification (2026-11-05): weights of size >= 256 stored as float16 and cast back to float32 by
+inserted Cast nodes at load time; the network graph and computation are otherwise unchanged
+(output correlation with the original float32 model 1.000000, max deviation 1.3 % of the range).
+
+用途：Image F（原名 MJ 还原工具）④页「同一场景重画」按远近分层调色时，估计画面里每个位置的相对远近。

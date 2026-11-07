@@ -1,0 +1,75 @@
+Correct every anatomical error and every clear structural or physical error in @图片1, and always remove stitching seams and black bars. Everything else must stay identical to the original — this is a retouch of the same image, not a new image.
+
+STEP 1 — STUDY THE ORIGINAL (silently), then treat all of it as locked:
+
+▸ Medium and style — photograph, painting, illustration, anime, 3D, etc., and its exact rendering: lens character or brushwork, edge quality, and level of finish.
+▸ Focus — which areas are sharp and which are soft, blurred, motion-blurred, or hazy.
+▸ Color — the white balance and color temperature (warm, neutral, or cool), the hue, saturation, and brightness of every area, and the overall color grade, contrast, and black level.
+▸ Light — the light source and direction, time of day, exposure, backlighting and shadow depth, and atmosphere such as haze, fog, dust, smoke, glow, bloom, god rays, and lens flare.
+▸ Texture — the amount and size of film grain, noise, and fine texture.
+▸ Design and placement — the cut, color blocking, and material of every garment; the shape, angle, tilt, and orientation of every accessory, prop, and structure.
+
+STEP 2 — ALWAYS FIX (these are never intentional):
+
+▸ Seams — a straight horizontal or vertical line across the image where the content on the two sides is offset, misaligned, or differently exposed or colored, as if two images were stitched together. Re-align the content across the line so every contour, fold, edge, and background shape continues smoothly, and blend the brightness and color into the surrounding image until the line disappears completely.
+▸ Black bars — solid black or white bands along the top, bottom, or sides (letterbox or pillarbox) are not part of the picture. Fill them by extending the scene outward — sky, ground, walls, or background — at the same scale, perspective, light, color, focus, and grain, so the picture fills the entire canvas. Do not move, zoom, or resize anything inside the existing picture area.
+
+STEP 3 — ANATOMY CHECK (mandatory, every person, every region):
+Inspect every person and every visible body part in the frame at full size — the main subject and also people in the background, at the edges of the frame, out of focus, motion-blurred, in shadow, small in the distance, or partly covered by another person or object.
+
+▸ Hands and fingers — count the fingers; every finger has the right number of joints and bends the right way; no fused, missing, extra, melted, or floating fingers; each hand clearly attaches to a wrist and forearm.
+▸ Arms and legs — each limb connects to the right shoulder or hip; crossed or folded arms read clearly as one forearm in front of the other, with plausible elbows and hands that tuck, grip, or rest somewhere; no limbs that merge, split, bend in impossible places, or cross through each other or the body.
+▸ Faces — eyes, nose, mouth, and ears are in the right place and proportion; no doubled, smeared, or melted features.
+
+Anatomy errors are ALWAYS fixed — exactly like seams. Blur, motion blur, shallow focus, shadow, haze, small size, background position, or partial occlusion is NEVER a reason to leave a broken hand, arm, leg, or face. Reconstruct the correct anatomy underneath, then render it with the same blur, motion streaks, shadow, haze, and transparency as that spot had before: a soft background hand becomes a correct soft background hand, and a correct arm seen through a translucent motion-blurred passer-by stays seen through it.
+
+STEP 4 — FIX OTHER CLEAR ERRORS.
+For everything that is not anatomy, an error is something a professional would flag as impossible or broken — not something that is merely soft, loose, unusual, tilted, or stylized.
+
+▸ Anatomy — anything found in STEP 3 (always fixed).
+▸ Structure — objects melted or fused together; straps, chains, or parts that end in mid-air or pass through each other; a single object whose own shape is deformed.
+▸ Physics — impossible gravity, balance, or contact; hands that don't actually hold what they are holding; a single object whose shadow clearly contradicts the existing light; broken perspective or scale.
+▸ Artifacts — banding, duplicated fragments, garbled text or fake logos.
+
+HOW TO FIX:
+
+▸ Change the shape, not the rendering. Every corrected area keeps the exact focus, blur, grain, texture or brushwork, color, and lighting of the area around it.
+▸ Keep every object's angle, tilt, orientation, and position. Fix a deformed object in place — never straighten, rotate, or re-center it.
+▸ A correction inside a blurred area stays equally blurred. A correction inside a loosely painted area stays equally loose.
+▸ Never re-light or re-grade the scene; a corrected object simply follows the existing light.
+
+NOT ERRORS — leave these exactly as they are:
+
+▸ Depth of field, bokeh, motion blur, soft focus, haze, glow, bloom, grain, noise, and other lens or film effects — the effect itself is intentional, but a broken body part inside it is still an error (STEP 3).
+▸ Color temperature and tint — warm, golden, cool, or stylized grades are intentional, not a white-balance problem.
+▸ Backlighting, silhouettes, deep shadows, bright or blown highlights, low contrast, lifted blacks, fog, dust, smoke, god rays, and lens flare.
+▸ Tilted, rotated, off-center, or casually placed objects — a slanted buckle, a crooked frame, a turned accessory.
+▸ Brushstrokes, loose or unfinished rendering, stylization, and exaggerated proportions that fit the style.
+▸ Objects and background shapes (not body parts) that are ambiguous, partly hidden, cropped, or in shadow — keep them ambiguous. Do not complete, clarify, or reinterpret them. This never applies to hands, arms, legs, or faces: those are always checked and fixed (STEP 3).
+▸ Unusual but intentional fashion, costume, or design choices.
+
+KEEP:
+
+▸ The same medium and style, composition, camera angle, canvas size, and aspect ratio, and the same position, size, and angle of every element (except the re-alignment needed to close a seam).
+▸ The same subject identity — face, expression, gaze, pose, hair, and skin texture — and the same background.
+▸ The same white balance and color temperature, the same hue and saturation in every area, the same overall grade, contrast, and exposure, and the same light direction, time of day, and atmosphere.
+▸ The same grain and noise, in the same amount and size.
+
+DO NOT:
+
+▸ Regenerate, re-shoot, or repaint the whole image, or switch it to a different medium.
+▸ Zoom, crop, or reframe the existing picture area. Filling black bars is the only allowed extension.
+▸ Sharpen, de-blur, denoise, smooth, dehaze, add clarity or local contrast, or add extra detail or texture anywhere.
+▸ Redesign, "complete," straighten, or add parts to clothing, objects, or structures — no new buttons, pockets, straps, garments, or props.
+▸ Shift colors or white balance in any direction — not warmer, cooler, pinker, greener, bluer, or more yellow; no added or removed saturation or contrast; no deeper blacks, no brighter whites.
+▸ Re-light the scene, change the time of day, or remove haze, fog, smoke, glow, or atmosphere.
+▸ Give it the typical AI look — no plastic skin, no HDR, no glossy over-detailing.
+
+RULES:
+
+▸ Minimal intervention — make the smallest change that fixes each error; the rest of the image should be indistinguishable from the original.
+▸ Seams, black bars, and anatomy errors (STEP 3) must always be fixed. Minimal intervention means changing only the broken part — not leaving a broken part unfixed.
+▸ For non-anatomy details (props, clothing, background objects): when in doubt, leave it.
+▸ Before you output, check again: every visible hand has a correct number of fingers attached to a wrist; every arm and leg connects and bends correctly; every face is intact — including blurred, background, and partly covered people.
+
+OUTPUT: the complete image on the same canvas size and aspect ratio, filling the entire frame — no black bars, no borders, no text, no watermark.

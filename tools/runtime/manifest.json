@@ -1,0 +1,91 @@
+{
+  "note": "Image F（原名 MJ 还原工具）运行环境清单。版本与公司电脑上实测通过的环境一致；哈希用于安装前校验文件是否完整、未被改动。",
+  "python": {
+    "version": "3.10.11",
+    "file": "python-3.10.11-amd64.exe",
+    "sha256": "d8dede5005564b408ba50317108b765ed9c3c510342a598f9fd42681cbe0648b",
+    "signer": "Python Software Foundation",
+    "urls": [
+      "https://mirrors.huaweicloud.com/python/3.10.11/python-3.10.11-amd64.exe",
+      "https://registry.npmmirror.com/-/binary/python/3.10.11/python-3.10.11-amd64.exe",
+      "https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe"
+    ]
+  },
+  "wheels_platform": "win-amd64",
+  "wheels_python": "3.10",
+  "packages": [
+    {
+      "module": "numpy",
+      "pip": "numpy",
+      "label": "numpy（数值计算）",
+      "pin": "2.2.6",
+      "min": "1.22",
+      "wheel": "numpy-2.2.6-cp310-cp310-win_amd64.whl",
+      "sha256": "f0fd6321b839904e15c46e0d257fdd101dd7f530fe03fd6359c1ea63738703f3",
+      "mb": 13
+    },
+    {
+      "module": "cv2",
+      "pip": "opencv-python",
+      "label": "OpenCV（图像处理）",
+      "pin": "5.0.0.93",
+      "min": "4.5",
+      "wheel": "opencv_python-5.0.0.93-cp37-abi3-win_amd64.whl",
+      "sha256": "f90ba04b8f73bc5c3814037699739f0156f597338a98f05956c684e7c3ca10d2",
+      "mb": 44
+    },
+    {
+      "module": "PIL",
+      "pip": "pillow",
+      "label": "Pillow（图片读写与预览）",
+      "pin": "12.2.0",
+      "min": "9.0",
+      "wheel": "pillow-12.2.0-cp310-cp310-win_amd64.whl",
+      "sha256": "673aa32138f3e7531ccdbca7b3901dba9b70940a19ccecc6a37c77d5fdeb05b5",
+      "mb": 7
+    }
+  ],
+  "indexes": [
+    "https://pypi.tuna.tsinghua.edu.cn/simple",
+    "https://mirrors.aliyun.com/pypi/simple",
+    "https://pypi.org/simple"
+  ],
+  "ui": {
+    "title": "Image F · 准备运行环境",
+    "py_check": "正在检查这台电脑的运行环境……",
+    "py_prepare": "这台电脑还没有 Python 3.10，正在自动安装（只需要一次）",
+    "py_verify": "正在校验安装包……",
+    "py_download": "文件夹里没有找到安装包，正在联网下载 Python 3.10……",
+    "py_install": "正在安装 Python 3.10，大约需要 1～2 分钟，请稍候……",
+    "py_elapsed": "已用时 {0} 秒",
+    "py_done": "Python 安装完成，正在检查其余组件……",
+    "err_title": "Image F",
+    "err_prefix": "自动安装没有成功：",
+    "err_tail": "可以关闭后再双击一次重试；如果还不行，把这个文件发给我：",
+    "err_hash": "安装包校验没通过（文件不完整或被改动过）。",
+    "err_download": "联网下载失败，请检查网络。",
+    "err_install": "Python 安装程序返回错误代码 {0}。",
+    "err_notfound": "安装程序已结束，但还是找不到可用的 Python 3.10。",
+    "btn_close": "关闭",
+    "btn_log": "打开日志"
+  },
+  "ui_en": {
+    "title": "Image F · Preparing the environment",
+    "py_check": "Checking this PC's environment…",
+    "py_prepare": "This PC has no Python 3.10 yet — installing it automatically (only once)",
+    "py_verify": "Verifying the installer…",
+    "py_download": "No installer found in the folder — downloading Python 3.10…",
+    "py_install": "Installing Python 3.10, about 1–2 minutes, please wait…",
+    "py_elapsed": "{0} s elapsed",
+    "py_done": "Python installed — checking the other components…",
+    "err_title": "Image F",
+    "err_prefix": "Automatic installation failed: ",
+    "err_tail": "Close this window and double-click again to retry; if it still fails, send this file to the author:",
+    "err_hash": "The installer failed verification (incomplete or modified file).",
+    "err_download": "Download failed — please check the network.",
+    "err_install": "The Python installer returned error code {0}.",
+    "err_notfound": "The installer finished, but no usable Python 3.10 was found.",
+    "btn_close": "Close",
+    "btn_log": "Open log"
+  }
+}

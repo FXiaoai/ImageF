@@ -1,0 +1,2 @@
+# keep every file byte-for-byte (the .bat / .nsi / .ps1 files need CRLF line endings)
+* -text

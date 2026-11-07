@@ -1,0 +1,20 @@
+A clean horizontal character reference sheet on a pure white background, 21:9 wide layout, four panels. One consistent character in all panels.
+
+REFERENCE ROLES:
+- @图片1 (front portrait) is the ONLY reference for the face: face shape, features, proportions, skin tone, age and expression.
+- @图片2 (original image) is the reference for the visual style, colour grade and rendering, and for the hairstyle, hair colour, outfit, accessories and body build.
+If the two references disagree, follow @图片1 for the face and @图片2 for everything else.
+
+STYLE LOCK: match @图片2's medium and rendering exactly — photograph, painting, illustration, anime or 3D render — including its level of realism, edge quality, skin, hair and fabric texture, colour grade, softness and mood. Do not switch to a generic default look. Black garments stay true near-black, not navy or teal. The style applies to the character only; the background stays clean, pure, flat white with no tint, gradient, grain, shadows or props.
+
+LAYOUT: Left panel (about one third of the width): a head-and-neck portrait in an absolute front view, framed from just above the hair down to the collarbones, nothing below the collarbones visible, with enough side space for the full hair. Head perfectly upright and level, no tilt, no chin up or down, no turn; both eyes on one horizontal line, nose on the centre line, eyes looking straight at the viewer, neutral expression, mouth closed. The face must be identical to @图片1. This left portrait is the ONLY face on the sheet. Right two thirds: three full-body views side by side — front view, exact 90-degree side view, back view — all at the same height and scale, feet on one shared ground line, evenly spaced, no overlap, in a neutral relaxed standing pose with arms slightly away from the body and feet fully visible.
+
+FACELESS FULL-BODY VIEWS: in the three full-body views, the face is a smooth, blank, featureless surface like a tailor's mannequin, with no eyes, eyebrows, nose, mouth or makeup, in the character's skin tone, keeping the correct head shape, jaw line and ears. Hair, hairline, bangs, hairstyle, hair colour and accessories (earrings, glasses, headwear) are drawn in full detail exactly as in @图片1 and @图片2, so the full-body views show hairstyle, outfit and body proportions only.
+
+BODY PROPORTION ANATOMY: build every full-body view on real adult anatomy, not on a big-head figure. Measure the body in head-heights using the left portrait's head: the total height is about 7.5 to 8 heads for a realistic adult (keep @图片2's proportions if it is clearly stylised). The chin sits at 1 head, nipples at about 2, navel at about 3, crotch at about 4 (the midpoint of the body), knees at about 6, feet at 7.5 to 8. The shoulders are about 2 head-widths wide and hands reach mid-thigh. The head in the full-body views must be the same size relative to the body as these proportions require — do not enlarge the head or shrink the body, legs or torso. Keep the body build consistent with @图片2.
+
+NECK AND SHOULDER ANATOMY CHECK (all panels): do not copy a wide, long or muscular neck caused by a reference's camera angle, lens or pose. The neck is a slim, near-parallel column, clearly narrower than the jaw, never a wide trapezoid flaring toward the shoulders. The trapezius starts low and short, a gentle soft slope blending into the shoulders, not a tall steep ridge from behind the ears; for a slim or average build it is barely visible. The neck has a natural, moderate length, the collarbones are subtle and nearly horizontal, and the shoulders are level, relaxed and slightly sloped.
+
+IDENTITY AND DESIGN LOCK: the face in the left portrait matches @图片1 exactly — do not beautify, idealise, enlarge the eyes, slim the face, sharpen the chin or change the age. Keep the outfit design identical across all three full-body views: the same garments, cut, colours, colour-block layout front and back, belt, pockets, shoes and accessories, with each item on the same side of the body in every view. Do not add or remove any clothing detail.
+
+No text, no labels, no numbers, no watermark, no extra characters.

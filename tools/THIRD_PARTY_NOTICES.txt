@@ -1,0 +1,38 @@
+Third-party components bundled with Image F / Image F 随带的第三方组件
+
+Image F itself (designed by 老F) is licensed under PolyForm Noncommercial 1.0.0 — see LICENSE.txt in the
+install folder. The components below were not written by 老F; they are distributed with Image F under their own
+licenses, which take precedence over Image F's license for those components.
+Image F 本身（老F 设计）的许可见安装文件夹根目录的 LICENSE.txt（中文：LICENSE.zh-CN.txt）。下面这些不是老F 写的，
+它们按各自的许可随 Image F 一起分发，各自的许可条款优先于 Image F 的许可。
+
+1. YuNet face detection model / YuNet 人脸检测模型
+   File: tools\face_detection_yunet_2023mar.onnx
+   Source: OpenCV Zoo  https://github.com/opencv/opencv_zoo/tree/main/models/face_detection_yunet
+   License: MIT — full text in tools\face_detection_yunet_LICENSE.txt
+
+2. Depth Anything V2 Small depth model (ONNX) / 远近模型
+   File: tools\depth_anything_v2_small_w16.onnx
+   Source: https://huggingface.co/depth-anything/Depth-Anything-V2-Small
+           ONNX export: https://huggingface.co/onnx-community/depth-anything-v2-small
+   License: Apache License 2.0 — full text in tools\depth_anything_v2_LICENSE.txt, notice in tools\depth_anything_v2_NOTICE.txt
+
+3. Python 3.10.11 installer (used only on first start when the PC has no Python 3.10)
+   Python 3.10.11 安装程序（第一次运行、电脑上没有 Python 3.10 时才会用到）
+   File: tools\runtime\python-3.10.11-amd64.exe (official Python Software Foundation build, unmodified)
+   License: Python Software Foundation License — see LICENSE.txt in the Python install folder,
+            https://docs.python.org/3.10/license.html
+
+4. Python packages (installed automatically on first start; official unmodified wheels, license files inside each wheel)
+   Python 依赖包（第一次运行时自动安装；官方原版 wheel，未改动，许可文件在各 wheel 内）
+   numpy 2.2.6          BSD-3-Clause and others   https://numpy.org
+   opencv-python 5.0    Apache License 2.0        https://github.com/opencv/opencv-python
+   Pillow 12.2.0        MIT-CMU (HPND)            https://python-pillow.org
+
+5. Compiled core modules in the installer (the .pyd files in tools)
+   安装包里编译好的核心模块（tools 里的 .pyd 文件）
+   老F's source code compiled to machine code with Nuitka (Apache License 2.0, https://nuitka.net). The compiled
+   result is still part of Image F and is used under Image F's license (LICENSE.txt). The MinGW-w64 / GCC runtime
+   linked during compilation is distributed under the GCC Runtime Library Exception.
+   用 Nuitka 把老F 的源码编译成机器码；编译结果仍属于 Image F，按 Image F 的许可使用。编译时链接的 MinGW-w64 / GCC
+   运行库按 GCC Runtime Library Exception 分发。

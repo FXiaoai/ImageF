@@ -1,0 +1,762 @@
+[
+ {
+  "id": 1,
+  "gpt_md5": "6d399af7ed5386df132296a59cc1eb85",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_01_input.png",
+   "gpt": "pair_01_gpt.jpg",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": -0.96435546875,
+     "da": 2.75,
+     "db": -3.140625,
+     "chroma_ratio": 1.0480459928512573
+    },
+    "midtones": {
+     "dL": -0.50048828125,
+     "da": 0.828125,
+     "db": -2.046875,
+     "chroma_ratio": 1.1063898801803589
+    },
+    "highlights": {
+     "dL": -0.238037109375,
+     "da": 0.3125,
+     "db": -1.3125,
+     "chroma_ratio": 1.1411054134368896
+    }
+   },
+   "da": 0.9375,
+   "db": -2.0625,
+   "grain_ratio": 0.29104762492903824,
+   "edge_ratio": 1.0414943787407893,
+   "blur_sigma_soft_mj": 4.527226521326083,
+   "blur_sigma_soft_gpt": 4.583882438409898,
+   "blur_ratio_soft": 1.0125144869197353,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.46769561011004956
+  }
+ },
+ {
+  "id": 2,
+  "gpt_md5": "ddbfc397cb67a1ab0e6c433355c1d2d2",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_02_input.png",
+   "gpt": "pair_02_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": 0.048828125,
+     "da": 2.453125,
+     "db": -2.8125,
+     "chroma_ratio": 0.7713237404823303
+    },
+    "midtones": {
+     "dL": -2.294921875,
+     "da": 1.1875,
+     "db": -1.9375,
+     "chroma_ratio": 0.8912291526794434
+    },
+    "highlights": {
+     "dL": -0.506591796875,
+     "da": 0.671875,
+     "db": 0.59375,
+     "chroma_ratio": 1.0545588731765747
+    }
+   },
+   "da": 1.234375,
+   "db": -1.703125,
+   "grain_ratio": 0.725794090490387,
+   "edge_ratio": 1.311917282507596,
+   "blur_sigma_soft_mj": 4.66842962642712,
+   "blur_sigma_soft_gpt": 2.9397874650629054,
+   "blur_ratio_soft": 0.6297165643070446,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.2360059653956498
+  }
+ },
+ {
+  "id": 3,
+  "gpt_md5": "1c7d1e9bbe75ae2770ec6e259e4f47d3",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_03_input.png",
+   "gpt": "pair_03_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": 0.384521484375,
+     "da": 0.328125,
+     "db": -0.15625,
+     "chroma_ratio": 1.092928171157837
+    },
+    "midtones": {
+     "dL": -1.03759765625,
+     "da": 0.21875,
+     "db": -0.40625,
+     "chroma_ratio": 1.0274900197982788
+    },
+    "highlights": {
+     "dL": -1.98974609375,
+     "da": -0.03125,
+     "db": -0.765625,
+     "chroma_ratio": 1.012570858001709
+    }
+   },
+   "da": 0.1875,
+   "db": -0.4375,
+   "grain_ratio": 0.5903284180807865,
+   "edge_ratio": 0.992662960287502,
+   "blur_sigma_soft_mj": 5.882508092823035,
+   "blur_sigma_soft_gpt": 5.4233435380951605,
+   "blur_ratio_soft": 0.9219440844819101,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.3083323428028052
+  }
+ },
+ {
+  "id": 4,
+  "gpt_md5": "bac9a8c28fc298f0e46a7345035a61ea",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_04_input.png",
+   "gpt": "pair_04_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": -0.32958984375,
+     "da": 0.15625,
+     "db": -0.421875,
+     "chroma_ratio": 1.1884297132492065
+    },
+    "midtones": {
+     "dL": -0.909423828125,
+     "da": 0.75,
+     "db": -3.296875,
+     "chroma_ratio": 1.2906252145767212
+    },
+    "highlights": {
+     "dL": -0.0244140625,
+     "da": 0.09375,
+     "db": -1.796875,
+     "chroma_ratio": 1.1773934364318848
+    }
+   },
+   "da": 0.515625,
+   "db": -2.4375,
+   "grain_ratio": 0.4813101787756898,
+   "edge_ratio": 1.1163679302535998,
+   "blur_sigma_soft_mj": 5.177015895734573,
+   "blur_sigma_soft_gpt": 4.8352061356244,
+   "blur_ratio_soft": 0.9339755243185953,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.7300253882915173
+  }
+ },
+ {
+  "id": 5,
+  "gpt_md5": "4f7c0392a6e2c6092861036c9c248651",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_05_input.png",
+   "gpt": "pair_05_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": 0.445556640625,
+     "da": 0.328125,
+     "db": 0.078125,
+     "chroma_ratio": 1.0255054235458374
+    },
+    "midtones": {
+     "dL": -1.08642578125,
+     "da": 0.15625,
+     "db": -0.34375,
+     "chroma_ratio": 1.0008466243743896
+    },
+    "highlights": {
+     "dL": -1.67236328125,
+     "da": 0.03125,
+     "db": -0.03125,
+     "chroma_ratio": 1.0336979627609253
+    }
+   },
+   "da": 0.171875,
+   "db": -0.234375,
+   "grain_ratio": 0.7327721870319164,
+   "edge_ratio": 1.0034807268629165,
+   "blur_sigma_soft_mj": 5.068743005225906,
+   "blur_sigma_soft_gpt": 4.694735425615069,
+   "blur_ratio_soft": 0.9262129527527371,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.3582275091799266
+  }
+ },
+ {
+  "id": 6,
+  "gpt_md5": "78ee4202a23b7b83df72d790c12827b5",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_06_input.png",
+   "gpt": "pair_06_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": 0.06103515625,
+     "da": 0.140625,
+     "db": 0.0,
+     "chroma_ratio": 0.9788604974746704
+    },
+    "midtones": {
+     "dL": -0.653076171875,
+     "da": 0.53125,
+     "db": -0.65625,
+     "chroma_ratio": 0.9221457839012146
+    },
+    "highlights": {
+     "dL": -0.604248046875,
+     "da": -0.34375,
+     "db": -0.125,
+     "chroma_ratio": 0.977819561958313
+    }
+   },
+   "da": 0.3125,
+   "db": -0.375,
+   "grain_ratio": 0.30533169691531076,
+   "edge_ratio": 0.8822767033245268,
+   "blur_sigma_soft_mj": 8.195348472734956,
+   "blur_sigma_soft_gpt": 11.989939240517758,
+   "blur_ratio_soft": 1.4630176227901714,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 1.1239555831346957,
+   "soft_edge_share": 0.848980866152268
+  }
+ },
+ {
+  "id": 7,
+  "gpt_md5": "0325f38cd744eed50ace9c4e1608e637",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_07_input.png",
+   "gpt": "pair_07_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": 2.789306640625,
+     "da": -0.5,
+     "db": -0.4375,
+     "chroma_ratio": 0.9668538570404053
+    },
+    "midtones": {
+     "dL": 1.690673828125,
+     "da": 0.1875,
+     "db": -1.078125,
+     "chroma_ratio": 0.9487832188606262
+    },
+    "highlights": {
+     "dL": 0.555419921875,
+     "da": -0.53125,
+     "db": -1.296875,
+     "chroma_ratio": 1.2283269166946411
+    }
+   },
+   "da": -0.125,
+   "db": -0.984375,
+   "grain_ratio": 0.44472772025573865,
+   "edge_ratio": 1.1257332905204716,
+   "blur_sigma_soft_mj": 7.539709113732555,
+   "blur_sigma_soft_gpt": 7.255873884218614,
+   "blur_ratio_soft": 0.9623546180320175,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.8092151823294967
+  }
+ },
+ {
+  "id": 8,
+  "gpt_md5": "e3dcfd96b78f3442c987a2e5aeb26d46",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_08_input.png",
+   "gpt": "pair_08_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": 0.48828125,
+     "da": -0.015625,
+     "db": -0.625,
+     "chroma_ratio": 0.9810827970504761
+    },
+    "midtones": {
+     "dL": -0.103759765625,
+     "da": -0.078125,
+     "db": -2.125,
+     "chroma_ratio": 1.1776636838912964
+    },
+    "highlights": {
+     "dL": -1.824951171875,
+     "da": 0.515625,
+     "db": -1.140625,
+     "chroma_ratio": 1.2611087560653687
+    }
+   },
+   "da": 0.015625,
+   "db": -1.734375,
+   "grain_ratio": 1.2353691406003742,
+   "edge_ratio": 1.3276831264452102,
+   "blur_sigma_soft_mj": 3.1698829597879903,
+   "blur_sigma_soft_gpt": 2.9442798055161608,
+   "blur_ratio_soft": 0.9288291848204646,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.1899882085506242
+  }
+ },
+ {
+  "id": 9,
+  "gpt_md5": "4deeb629188f584a21c16aa607cacd57",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_09_input.png",
+   "gpt": "pair_09_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": -1.019287109375,
+     "da": 0.25,
+     "db": -2.140625,
+     "chroma_ratio": 1.0769277811050415
+    },
+    "midtones": {
+     "dL": -0.52490234375,
+     "da": 0.140625,
+     "db": -0.5625,
+     "chroma_ratio": 1.004366397857666
+    },
+    "highlights": {
+     "dL": -0.445556640625,
+     "da": -0.015625,
+     "db": -0.09375,
+     "chroma_ratio": 1.0096348524093628
+    }
+   },
+   "da": 0.15625,
+   "db": -0.75,
+   "grain_ratio": 0.6484951689129806,
+   "edge_ratio": 1.200034341218413,
+   "blur_sigma_soft_mj": 6.616207953720163,
+   "blur_sigma_soft_gpt": 5.308906502916306,
+   "blur_ratio_soft": 0.8024092561859718,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.28721527724518753
+  }
+ },
+ {
+  "id": 10,
+  "gpt_md5": "8860c8008bb044cffe5feff78743c5bc",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_10_input.png",
+   "gpt": "pair_10_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": 0.6591796875,
+     "da": -0.125,
+     "db": -0.46875,
+     "chroma_ratio": 1.5966389179229736
+    },
+    "midtones": {
+     "dL": 0.592041015625,
+     "da": -0.015625,
+     "db": -0.796875,
+     "chroma_ratio": 1.026044249534607
+    },
+    "highlights": {
+     "dL": -0.5859375,
+     "da": -0.203125,
+     "db": -0.21875,
+     "chroma_ratio": 1.0461537837982178
+    }
+   },
+   "da": -0.078125,
+   "db": -0.640625,
+   "grain_ratio": 0.3291894638900556,
+   "edge_ratio": 1.0318214568440798,
+   "blur_sigma_soft_mj": 3.7062276978117517,
+   "blur_sigma_soft_gpt": 3.693389758123928,
+   "blur_ratio_soft": 0.9965361168458691,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.48441804796531324
+  }
+ },
+ {
+  "id": 11,
+  "gpt_md5": "762c0712f1f4c5ecc9f05bec92a6ed34",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_11_input.png",
+   "gpt": "pair_11_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": 0.68359375,
+     "da": 0.1875,
+     "db": 0.0,
+     "chroma_ratio": 1.0757662057876587
+    },
+    "midtones": {
+     "dL": 1.1474609375,
+     "da": 0.78125,
+     "db": -0.5,
+     "chroma_ratio": 1.121764063835144
+    },
+    "highlights": {
+     "dL": 2.239990234375,
+     "da": 0.484375,
+     "db": -0.15625,
+     "chroma_ratio": 1.0214357376098633
+    }
+   },
+   "da": 0.609375,
+   "db": -0.328125,
+   "grain_ratio": 0.8743693773248796,
+   "edge_ratio": 1.1812062192344406,
+   "blur_sigma_soft_mj": 3.623911044157736,
+   "blur_sigma_soft_gpt": 3.3697438887426334,
+   "blur_ratio_soft": 0.9298638536327054,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.5959687283944052
+  }
+ },
+ {
+  "id": 12,
+  "gpt_md5": "e75221fcc3d3f97513562c0199b39284",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_12_input.png",
+   "gpt": "pair_12_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": -2.77099609375,
+     "da": 1.09375,
+     "db": -2.4375,
+     "chroma_ratio": 1.006927251815796
+    },
+    "midtones": {
+     "dL": -0.762939453125,
+     "da": 0.140625,
+     "db": -0.875,
+     "chroma_ratio": 0.9845296740531921
+    },
+    "highlights": {
+     "dL": -1.0986328125,
+     "da": -0.265625,
+     "db": 0.0,
+     "chroma_ratio": 1.0527334213256836
+    }
+   },
+   "da": 0.21875,
+   "db": -1.015625,
+   "grain_ratio": 0.7033247225962702,
+   "edge_ratio": 1.3574787141298261,
+   "blur_sigma_soft_mj": 8.897644020611558,
+   "blur_sigma_soft_gpt": 7.456925537906987,
+   "blur_ratio_soft": 0.8380786554994648,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.2705605381165919
+  }
+ },
+ {
+  "id": 13,
+  "gpt_md5": "988afaf09e5fa28e69c96234311d880c",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_13_input.png",
+   "gpt": "pair_13_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": -2.2216796875,
+     "da": 0.953125,
+     "db": -2.515625,
+     "chroma_ratio": 1.0183215141296387
+    },
+    "midtones": {
+     "dL": 0.15869140625,
+     "da": 0.671875,
+     "db": -0.609375,
+     "chroma_ratio": 0.972162663936615
+    },
+    "highlights": {
+     "dL": -0.9521484375,
+     "da": 0.015625,
+     "db": 0.359375,
+     "chroma_ratio": 1.126980185508728
+    }
+   },
+   "da": 0.59375,
+   "db": -0.703125,
+   "grain_ratio": 0.7042221334171325,
+   "edge_ratio": 1.434433098643693,
+   "blur_sigma_soft_mj": 14.065934065934067,
+   "blur_sigma_soft_gpt": 14.065934065934067,
+   "blur_ratio_soft": 1.0,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.28966559943080755
+  }
+ },
+ {
+  "id": 14,
+  "gpt_md5": "28f27e324f76172297ff052d6e1c09e2",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_14_input.png",
+   "gpt": "pair_14_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": -2.996826171875,
+     "da": 1.40625,
+     "db": -2.71875,
+     "chroma_ratio": 1.0067200660705566
+    },
+    "midtones": {
+     "dL": 1.0986328125,
+     "da": 0.6875,
+     "db": -0.796875,
+     "chroma_ratio": 0.961150050163269
+    },
+    "highlights": {
+     "dL": -1.129150390625,
+     "da": -0.046875,
+     "db": 0.0,
+     "chroma_ratio": 1.0371760129928589
+    }
+   },
+   "da": 0.671875,
+   "db": -1.015625,
+   "grain_ratio": 0.7297568319306178,
+   "edge_ratio": 1.4757587709428415,
+   "blur_sigma_soft_mj": 7.447174097644073,
+   "blur_sigma_soft_gpt": 6.233094293171199,
+   "blur_ratio_soft": 0.8369744296891152,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.28696179502728925
+  }
+ },
+ {
+  "id": 15,
+  "gpt_md5": "5dcf233d6d14d980f3deb95fe965cc5c",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_15_input.png",
+   "gpt": "pair_15_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": 0.384521484375,
+     "da": -0.671875,
+     "db": -0.59375,
+     "chroma_ratio": 0.9284192323684692
+    },
+    "midtones": {
+     "dL": -0.152587890625,
+     "da": -0.3125,
+     "db": -1.515625,
+     "chroma_ratio": 0.9021884202957153
+    },
+    "highlights": {
+     "dL": -1.0009765625,
+     "da": -0.53125,
+     "db": -2.25,
+     "chroma_ratio": 1.041958212852478
+    }
+   },
+   "da": -0.453125,
+   "db": -1.40625,
+   "grain_ratio": 0.5094923936086022,
+   "edge_ratio": 1.0068695552346718,
+   "blur_sigma_soft_mj": 14.065934065934067,
+   "blur_sigma_soft_gpt": 14.065934065934067,
+   "blur_ratio_soft": 1.0,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.6505778158232641
+  }
+ },
+ {
+  "id": 16,
+  "gpt_md5": "506e51905a410b36df7271816fc4b708",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_16_input.png",
+   "gpt": "pair_16_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": -0.347900390625,
+     "da": 0.265625,
+     "db": 0.09375,
+     "chroma_ratio": 0.9564352631568909
+    },
+    "midtones": {
+     "dL": 1.446533203125,
+     "da": 0.890625,
+     "db": -0.40625,
+     "chroma_ratio": 1.1876293420791626
+    },
+    "highlights": {
+     "dL": 2.86865234375,
+     "da": 0.671875,
+     "db": 0.0,
+     "chroma_ratio": 1.081061601638794
+    }
+   },
+   "da": 0.703125,
+   "db": -0.1875,
+   "grain_ratio": 1.1015115897757424,
+   "edge_ratio": 1.332185484912388,
+   "blur_sigma_soft_mj": 3.6339437945048583,
+   "blur_sigma_soft_gpt": 3.507422083989716,
+   "blur_ratio_soft": 0.9651833606489829,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.5901267818432635
+  }
+ },
+ {
+  "id": 17,
+  "gpt_md5": "37793fc1b3cde34417db0af3d68a38ad",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_17_input.png",
+   "gpt": "pair_17_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": 0.86669921875,
+     "da": 0.046875,
+     "db": 0.03125,
+     "chroma_ratio": 1.0042816400527954
+    },
+    "midtones": {
+     "dL": -0.262451171875,
+     "da": 0.03125,
+     "db": -1.484375,
+     "chroma_ratio": 0.9135616421699524
+    },
+    "highlights": {
+     "dL": -2.435302734375,
+     "da": 0.375,
+     "db": -0.75,
+     "chroma_ratio": 1.0755376815795898
+    }
+   },
+   "da": 0.09375,
+   "db": -0.9375,
+   "grain_ratio": 0.3545599693839381,
+   "edge_ratio": 1.0650478519850888,
+   "blur_sigma_soft_mj": 14.065934065934067,
+   "blur_sigma_soft_gpt": 14.065934065934067,
+   "blur_ratio_soft": 1.0,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 1.202189673119848,
+   "soft_edge_share": 0.9869285173023491
+  }
+ },
+ {
+  "id": 18,
+  "gpt_md5": "67c701a35172456b4cf787d9996eb15c",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_18_input.png",
+   "gpt": "pair_18_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": 1.300048828125,
+     "da": 0.015625,
+     "db": 0.328125,
+     "chroma_ratio": 1.1372723579406738
+    },
+    "midtones": {
+     "dL": 0.152587890625,
+     "da": 0.453125,
+     "db": -0.890625,
+     "chroma_ratio": 0.8925986289978027
+    },
+    "highlights": {
+     "dL": -0.274658203125,
+     "da": 0.984375,
+     "db": 0.109375,
+     "chroma_ratio": 0.9651050567626953
+    }
+   },
+   "da": 0.421875,
+   "db": -0.484375,
+   "grain_ratio": 0.7627197777574729,
+   "edge_ratio": 1.2675284261353161,
+   "blur_sigma_soft_mj": 5.871373300804454,
+   "blur_sigma_soft_gpt": 5.109835002114631,
+   "blur_ratio_soft": 0.8702963923984388,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.7778056363454017
+  }
+ },
+ {
+  "id": 20,
+  "gpt_md5": "f4ba9b5a86c5e2687c92812778f58668",
+  "precomp": false,
+  "stats": {
+   "mj": "pair_20_input.png",
+   "gpt": "pair_20_gpt.png",
+   "version": 2,
+   "zones": {
+    "shadows": {
+     "dL": 1.3427734375,
+     "da": 0.015625,
+     "db": 0.375,
+     "chroma_ratio": 1.1675809621810913
+    },
+    "midtones": {
+     "dL": 1.007080078125,
+     "da": 0.453125,
+     "db": -1.0,
+     "chroma_ratio": 0.9427247047424316
+    },
+    "highlights": {
+     "dL": 0.018310546875,
+     "da": 1.15625,
+     "db": 0.3125,
+     "chroma_ratio": 0.9967420697212219
+    }
+   },
+   "da": 0.453125,
+   "db": -0.40625,
+   "grain_ratio": 0.648220975213117,
+   "edge_ratio": 1.2380530380934567,
+   "blur_sigma_soft_mj": 5.876050185364152,
+   "blur_sigma_soft_gpt": 5.407852069252977,
+   "blur_ratio_soft": 0.920320946666292,
+   "blur_sigma_sharp_mj": 0.0,
+   "blur_sigma_sharp_gpt": 0.0,
+   "soft_edge_share": 0.7847988519966351
+  }
+ }
+]

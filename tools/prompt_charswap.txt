@@ -1,0 +1,37 @@
+Retouch @图片1 : find and fix EVERY error in it, then output the same picture with those errors corrected. Be thorough — a missed error counts as a failure. Apart from the error fixes, the main character is FULLY REPLACED (see below); this replacement overrides every "keep identical" rule in this prompt.
+
+FULL CHARACTER REPLACEMENT (mandatory, top priority — overrides STYLE LOCK): Replace the ENTIRE MAIN CHARACTER in @图片1 with the character from @图片2 (use the front / clearest view of @图片2 as the identity and design reference). Do NOT blend or average the two characters, and do NOT keep any part of @图片1's head, body proportions, clothing, or footwear — redraw the person from scratch as @图片2. The new character may differ in height, build, face shape, and silhouette; adjust freely.
+
+Take ALL of these from @图片2, exactly as they are:
+  – Head: face outline, bone structure, features, skin tone, hairstyle, hair colour, bangs, parting, hairline, volume, and hair accessories.
+  – Body: overall build, shoulder width, torso length, limb proportions, and skin tone.
+  – Outfit: every garment, cut, colour, material, accessory, and detail — shirt, jacket, skirt/pants, belts, straps, jewelry, bags, etc.
+  – Footwear: shoes or boots, style, colour, and height.
+
+Keep ONLY these from @图片1: the same pose, body language, limb angles, hand gestures, head angle and tilt, expression, gaze direction, camera angle, framing, and scene. Place @图片2's character into @图片1's pose as if the same moment was shot with a different person — matching the silhouette of the pose, not the identity. Join head, neck, body, clothes, and shoes into one coherent figure. Render the whole character inside @图片1's lighting, colour grade, motion blur, focus, and grain. Do not copy @图片2's lighting, colours, sharpness, pose, or background.
+
+FIX ALL OF THESE (mandatory, no exceptions):
+
+• Every person in the frame, checked one by one — the main subject and also anyone small, distant, out of focus, motion-blurred, in shadow, at the edge, or partly hidden behind another person or object:
+  – Hands and fingers: count the visible fingers; correct joints; no fused, extra, melted, or floating fingers; every hand attached to a wrist and forearm. A hand whose fingers are all in view — open, spread, or flat, with nothing covering them — must have exactly five: four fingers and a thumb; a missing or extra finger on such a hand is an error, so fix it. Fingers hidden by a fist, a grip, the other hand, an object, a pocket, or the frame edge, or lined up behind one another by the hand's angle, are not missing — never open a fist, unfold a grip, or expose hidden fingers just to show five.
+  – Arms and legs: each connects to the right shoulder or hip and bends only at real joints. Crossed or folded arms must read clearly as one forearm in front of the other, with both hands accounted for. No limbs that merge, split, or pass through each other or the body.
+  – Faces: eyes, nose, mouth, and ears in the right place and proportion; no doubled, smeared, or melted features.
+• Structure: melted or fused objects, deformed shapes, straps, chains, or parts that end in mid-air or pass through each other.
+• Physics: impossible gravity, balance, contact, or grip; broken perspective or scale; a single object whose shadow clearly contradicts the existing light (backlighting, silhouettes, and deep shadows are not errors — never re-light the scene).
+• Artifacts: garbled text, fake logos, duplicated fragments, banding.
+• Seams: any straight line where the two sides are offset, misaligned, or differently exposed — re-align the content and blend until the line disappears.
+• Letterbox or pillarbox bars: perfectly flat, empty black or white bands running straight along the canvas edges — fill them by extending the scene at the same scale, perspective, light, focus, and grain, so the picture fills the whole canvas. Dark scene content at an edge (night sky, shadow, a dark wall or ceiling, vignetting) is not a bar — keep it as it is.
+
+Blur, motion blur, shadow, haze, small size, background position, or partial occlusion is NEVER a reason to skip an error. Fix it inside the blur: rebuild the correct shape, then render it exactly as soft, streaked, dim, or translucent as that spot was.
+
+STYLE LOCK — everything you did not fix or replace must look identical:
+1. Color: the same white balance, hues, saturation, contrast, and black level — not warmer and not cooler, not more and not less saturated. Do not re-light, de-haze, or re-grade.
+2. Focus: soft, blurred, and motion-blurred areas stay exactly as soft. Never sharpen, de-blur, or add clarity or detail; a corrected part takes on the blur of its spot.
+3. Grain: the same film grain and noise everywhere, including flat and blurred areas — no denoising or smoothing.
+4. Framing: the same composition, canvas size, aspect ratio, and camera angle. Keep the same pose, limb angles, head tilt, and gaze as @图片1. Exception: the main character's body silhouette, clothing silhouette, and head outline follow @图片2's design, not @图片1's.
+5. Identity: the same expressions and poses — no plastic skin, no HDR, no AI gloss. Exception: the main character's whole appearance (head, body, outfit, shoes) comes from @图片2 as described in FULL CHARACTER REPLACEMENT; every other person keeps their own look.
+6. Design: the same props and background — never redesign the scene or add objects that were not in @图片1. The main character's clothing and footwear follow @图片2, not @图片1.
+
+Before you output, check again: every hand, arm, leg, and face of every person — including blurred, background, and partly covered people — is now correct, and the main character is clearly @图片2's person (head, body, outfit, and shoes) in @图片1's pose, angle, light, colour, and grain — not a mix of both characters.
+
+OUTPUT: the complete corrected image filling the entire canvas — no borders, no text, no watermark.

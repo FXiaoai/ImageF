@@ -1,0 +1,31 @@
+# Image F - files that must never be committed
+
+# personal calibration images (the built-in tools/calib_base.json is enough)
+tools/calib/
+
+# offline installers for Python 3.10 and wheels (about 90 MB; attach the installer to Releases instead)
+tools/runtime/*.exe
+tools/runtime/wheels/
+
+# per-install settings and results
+lang.json
+Output/
+tools/*.log
+tools/*.log.old
+
+# Python / compiled modules
+__pycache__/
+*.pyc
+*.pyd
+
+# build output and downloaded build tools
+build_tools/build/
+build_tools/nsis-3.11/
+build_tools/nsis.zip
+build_tools/installer.nsi
+build_tools/manifest_last_build.txt
+build_tools/welcome.bmp
+build_tools/app_icon_preview.png
+*.exe
+*.zip
+*.sha256.txt

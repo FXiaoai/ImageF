@@ -1,0 +1,27 @@
+Retouch @图片1 : find and fix EVERY error in it, then output the same picture with those errors corrected. Be thorough — a missed error counts as a failure. This is the same image repaired, not a new image.
+
+FIX ALL OF THESE (mandatory, no exceptions):
+
+• Every person in the frame, checked one by one — the main subject and also anyone small, distant, out of focus, motion-blurred, in shadow, at the edge, or partly hidden behind another person or object:
+  – Hands and fingers: count the visible fingers; correct joints; no fused, extra, melted, or floating fingers; every hand attached to a wrist and forearm. A hand whose fingers are all in view — open, spread, or flat, with nothing covering them — must have exactly five: four fingers and a thumb; a missing or extra finger on such a hand is an error, so fix it. Fingers hidden by a fist, a grip, the other hand, an object, a pocket, or the frame edge, or lined up behind one another by the hand's angle, are not missing — never open a fist, unfold a grip, or expose hidden fingers just to show five.
+  – Arms and legs: each connects to the right shoulder or hip and bends only at real joints. Crossed or folded arms must read clearly as one forearm in front of the other, with both hands accounted for. No limbs that merge, split, or pass through each other or the body.
+  – Faces: eyes, nose, mouth, and ears in the right place and proportion; no doubled, smeared, or melted features.
+• Structure: melted or fused objects, deformed shapes, straps, chains, or parts that end in mid-air or pass through each other.
+• Physics: impossible gravity, balance, contact, or grip; broken perspective or scale; a single object whose shadow clearly contradicts the existing light (backlighting, silhouettes, and deep shadows are not errors — never re-light the scene).
+• Artifacts: garbled text, fake logos, duplicated fragments, banding.
+• Seams: any straight line where the two sides are offset, misaligned, or differently exposed — re-align the content and blend until the line disappears.
+• Letterbox or pillarbox bars: perfectly flat, empty black or white bands running straight along the canvas edges — fill them by extending the scene at the same scale, perspective, light, focus, and grain, so the picture fills the whole canvas. Dark scene content at an edge (night sky, shadow, a dark wall or ceiling, vignetting) is not a bar — keep it as it is.
+
+Blur, motion blur, shadow, haze, small size, background position, or partial occlusion is NEVER a reason to skip an error. Fix it inside the blur: rebuild the correct shape, then render it exactly as soft, streaked, dim, or translucent as that spot was.
+
+STYLE LOCK — everything you did not fix must look identical:
+1. Color: the same white balance, hues, saturation, contrast, and black level — not warmer and not cooler, not more and not less saturated. Do not re-light, de-haze, or re-grade.
+2. Focus zones are intentional and locked. First note which areas are sharp, which are softly out of focus, and which are motion-blurred (a passer-by streaking past, foreground bokeh, distant haze). Only the sharp zone keeps crisp detail. In every soft or motion-blurred zone, fix shapes only and keep the blur and streaks exactly as strong — a blurred passer-by stays a translucent streak, foreground bokeh stays bokeh, and a person seen through them stays behind them. Never sharpen, de-blur, or add clarity or detail. A motion-blurred person (a translucent, streaked passer-by) is NOT an error and must not be redrawn: keep that exact streak in the same place, shape, length, and transparency — do not turn them into a sharp or solid person, and do not add a bag, backpack, face, or any other detail to them.
+3. Grain: the same film grain and noise everywhere, including flat and blurred areas — no denoising or smoothing.
+4. Framing: the same composition, canvas size, aspect ratio, and camera angle, and the same position, size, and tilt of every element. Fix a tilted object in place — never straighten or rotate it.
+5. Identity: the same faces, expressions, poses, hair, and skin texture — no plastic skin, no HDR, no AI gloss.
+6. Design: the same clothing cut, colors, and materials, and the same props and background — never redesign or add buttons, pockets, straps, garments, or objects.
+
+Before you output, check again: every hand, arm, leg, and face of every person — including blurred, background, and partly covered people — is now correct.
+
+OUTPUT: the complete corrected image filling the entire canvas — no borders, no text, no watermark.
