@@ -26,7 +26,7 @@ The interface and the manual are available in **English and Chinese**. The insta
 ## Download and install (Windows 10 / 11, 64-bit)
 
 - **Installer (recommended)** — download `ImageF_V<version>_Setup.exe` from the [Releases](../../releases) page and double-click it. Everything is included offline (Python 3.10, numpy, OpenCV, Pillow); it installs for the current user only and does not need administrator rights. The core modules in the installer are compiled; they behave exactly like the source in this repository.
-- **From source** — download the repository (or `ImageF_V<version>_Source.zip` from Releases), unzip the whole folder, and double-click `ImageF.bat`. If Python 3.10 is missing it is installed for the current user (no admin rights), then numpy / OpenCV / Pillow are installed if needed, and the tool opens. The source does not include the offline installers (`tools\runtime` only holds a manifest), so the first run downloads Python 3.10.11 and three packages (about 70 MB).
+- **From source** — download the repository, unzip the whole folder, and double-click `ImageF.bat`. If Python 3.10 is missing it is installed for the current user (no admin rights), then numpy / OpenCV / Pillow are installed if needed, and the tool opens. The source does not include the offline installers (`tools\runtime` only holds a manifest), so the first run downloads Python 3.10.11 and three packages (about 70 MB).
 
 Results are saved in the `Output` folder inside the install folder (you can choose another folder in the tool). Results from versions before 4.9 stay in the old `输出` folder and are not moved.
 
