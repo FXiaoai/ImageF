@@ -21,7 +21,7 @@ HERE = os.path.dirname(os.path.realpath(__file__))
 sys.path.insert(0, HERE)
 ERR_LOG = os.path.join(HERE, 'gui_error.log')
 APP = 'Image F'
-VERSION = '4.9'
+VERSION = '4.9.1'
 ICON = 'ImageF.ico'                    # 工具图标（V4.6.1 起换了文件名：Windows 按文件路径缓存图标，同名换内容不会刷新）
 _ROOT = os.path.dirname(HERE)
 

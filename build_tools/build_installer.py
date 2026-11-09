@@ -13,7 +13,7 @@ import os
 import subprocess
 import sys
 
-VERSION = '4.9'
+VERSION = '4.9.1'
 APP = 'Image F'
 HERE = os.path.dirname(os.path.abspath(__file__))
 WS = os.path.abspath(os.path.join(HERE, '..'))                # 工作区根目录（本文件夹在工作区根目录下）

@@ -1,0 +1,50 @@
+﻿Image F：自动准备运行环境被拦截了
+====================================
+
+这是什么情况
+  Image F 第一次打开时，要先给电脑装好 Python 3.10（运行 Image F 需要它）。
+  平时这一步是自动的，但这台电脑的安全软件或公司管理策略拦住了自动安装。
+  不用担心，自己装一下就行，大约一分钟。
+
+怎么做
+  1. 已经自动弹出了「Python 3.10」的安装窗口（如果被别的窗口挡住，看一下任务栏）。
+  2. 直接点第一个大按钮「Install Now」。
+     不需要管理员密码，也不用勾选任何选项。
+  3. 等进度条走完，出现「Setup was successful」，点「Close」。
+  4. Image F 会自己打开（第一次还要再准备 1～2 分钟，有进度条）。
+
+如果没有弹出 Python 安装窗口
+  打开 Image F 的安装文件夹 → tools → runtime，双击 python-3.10.11-amd64.exe，
+  按上面第 2～3 步装好，然后再点一次桌面上的「Image F」。
+  （如果 runtime 里没有这个文件，就到 https://www.python.org/downloads/release/python-31011/
+    下载「Windows installer (64-bit)」来装。）
+
+还是打不开
+  把那个黑色窗口截图，连同 tools 文件夹里的 setup.log，发给给你这个工具的人。
+
+------------------------------------------------------------
+
+Image F: automatic setup was blocked
+====================================
+
+What happened
+  On its first start, Image F installs Python 3.10, which it needs to run.
+  Security software or a company policy on this PC blocked that automatic step.
+  You can simply install Python yourself. It takes about one minute.
+
+What to do
+  1. The "Python 3.10" installer window has opened (check the taskbar if it is hidden).
+  2. Click the first big button, "Install Now".
+     No admin password is needed and no options need to be ticked.
+  3. When it says "Setup was successful", click "Close".
+  4. Image F then opens by itself (the first start needs another 1-2 minutes, with a progress bar).
+
+If no Python installer appeared
+  Open the Image F install folder -> tools -> runtime, double-click python-3.10.11-amd64.exe,
+  follow steps 2-3 above, then open "Image F" from the desktop again.
+  (If that file is not in runtime, download "Windows installer (64-bit)" from
+   https://www.python.org/downloads/release/python-31011/ and install it.)
+
+Still not working
+  Send a screenshot of the black window, plus setup.log from the tools folder,
+  to the person who gave you this tool.
